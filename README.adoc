@@ -8,4 +8,5 @@ image:restructuredtext.png[restructuredtext,link=https://docutils.sourceforge.io
 
 ## Links
 
-link:CREDITS.adoc[Credits]
+link:CREDITS.adoc[Credits] +
+link:REFERENCES.adoc[References]
