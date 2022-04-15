@@ -6,4 +6,5 @@
 
 ## Links
 
-[Credits](CREDITS.md)
+[Credits](CREDITS.md)  
+[References](REFERENCES.md)
