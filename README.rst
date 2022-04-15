@@ -19,4 +19,5 @@
 Links
 =====
 
-`Credits <CREDITS.rst>`_
+| `Credits <CREDITS.rst>`_
+| `References <REFERENCES.rst>`_
