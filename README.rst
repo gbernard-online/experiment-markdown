@@ -13,3 +13,10 @@
 .. |restructuredtext| image:: logo/restructuredtext.png
   :alt: restructuredtext
   :target: https://docutils.sourceforge.io/rst.html
+
+====
+
+Links
+=====
+
+`Credits <CREDITS.rst>`_
