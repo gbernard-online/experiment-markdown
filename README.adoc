@@ -1,0 +1,5 @@
+:imagesdir: logo
+
+image:markdown.png[markdown,link=https://www.markdownguide.org]
+image:asciidoc.png[markasciidocdown,link=https://asciidoc-py.github.io]
+image:restructuredtext.png[restructuredtext,link=https://docutils.sourceforge.io/rst.html]
