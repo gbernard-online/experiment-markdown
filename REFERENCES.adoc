@@ -1,0 +1,19 @@
+= References
+:imagesdir: icon/libre
+
+== Documentations
+
+image:library.png[library,width=64]
+
+Markdown: https://www.markdownguide.org/basic-syntax +
+AsciiDoc: https://asciidoc-py.github.io/userguide.html +
+reStructuredText: https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html +
+{empty} +
+
+== Tutorials
+
+image:idea.png[idea,width=64]
+
+Andrea Agili: https://agea.github.io/tutorial.md +
+Vogella: https://www.vogella.com/tutorials/AsciiDoc/article.html +
+{empty} +
