@@ -1,0 +1,9 @@
+= Credits
+:imagesdir: icon/libre
+
+== Icons
+
+image:palette.png[palette,width=64]
+
+Dennis Suitters: https://icon-icons.com/pack/LibreICONS/2621 +
+{empty} +
