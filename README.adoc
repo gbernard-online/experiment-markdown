@@ -1,0 +1,13 @@
+:imagesdir: logo
+
+image:markdown.png[markdown,link=https://www.markdownguide.org]
+image:asciidoc.png[asciidoc,link=https://asciidoc-py.github.io]
+image:restructuredtext.png[restructuredtext,link=https://docutils.sourceforge.io/rst.html]
+
+---
+
+## Links
+
+link:CREDITS.adoc[Credits] +
+link:REFERENCES.adoc[References] +
+{empty} +
